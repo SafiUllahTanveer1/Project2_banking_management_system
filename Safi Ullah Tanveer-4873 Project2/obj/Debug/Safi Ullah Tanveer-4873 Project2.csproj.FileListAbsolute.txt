@@ -1,0 +1,7 @@
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\bin\Debug\Safi_Ullah_Tanveer_4873_Project2.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\bin\Debug\Safi_Ullah_Tanveer_4873_Project2.pdb
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\obj\Debug\Safi Ullah Tanveer-4873 Project2.csproj.AssemblyReference.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\obj\Debug\Safi Ullah Tanveer-4873 Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\obj\Debug\Safi Ullah Tanveer-4873 Project2.csproj.CoreCompileInputs.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\obj\Debug\Safi_Ullah_Tanveer_4873_Project2.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah Tanveer-4873 Project2\Safi Ullah Tanveer-4873 Project2\obj\Debug\Safi_Ullah_Tanveer_4873_Project2.pdb
